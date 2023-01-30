@@ -2,18 +2,32 @@
 Horiseon Marketing website 
 
 # Usage
+
 You can visit this website by clicking on this link (https://parrmizzen.github.io/Horiseon-Marketing/).
+
+
 # Description
+
 Horiseon marketing website is here to show the user different ways of online management i.e.(search engine optimization, etc.).  It breaks down the website into three different sections on Search Engine Optimization, Online Reputation Management, and Social Media Marketing.  It also has a side bar that goes over Lead Generation, Brand Awareness, and cost management. 
+
 
 # Main Header
 
 Includes quick links to three main sections:
 * Search Engine Optimization
+* ![Screen shot of Search Engine Optimization section.](assets/images/Screenshots/Screenshot-of-SEO.jpg)
+
 * Online Reputation Management
+* ![Screenshot of Online Reputation Managemnt section.](assets/images/Screenshots/Screenshot-of-ORM.jpg)
+
 * Social Media Marketing
-All of these sections are H2 Headers
-Use the button at the top of the screen to naivagte to different sections.
+* ![Screenshot of Social Media Marketing section.](assets/images/Screenshots/Screenshot-of-SMM.jpg)
+
+* All of these sections are H2 Headers
+
+* Use the button at the top of the screen to naivagte to different sections.
+
+![Screenshot of header bar.](assets/images/Screenshots/Screenshot-of-header.jpg)
 
 # Side bar 
 
@@ -21,7 +35,12 @@ Includes three different sections on the right hand side next to main sections:
 * Lead Generation
 * Brand Awareness
 * Cost Management
+
 All of these sections are H3 Headers
+
+![Screen shot of sidebar](assets/images/Screenshots/Screenshot-of-sidebar.jpg)
+
+
 
 # Support
 
